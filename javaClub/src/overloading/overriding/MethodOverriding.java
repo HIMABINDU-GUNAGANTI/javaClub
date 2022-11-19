@@ -28,10 +28,10 @@ public class MethodOverriding {
 
     public static void main(String[] args) {
 
-        AlexaAccount alia=new AliaAccount();
+       // AlexaAccount alia=new AliaAccount();
 
 
-        alia.account();
+      //  alia.account();
 
     }
 }
